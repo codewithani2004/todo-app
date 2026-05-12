@@ -1,6 +1,6 @@
 
 
-# 📝 Todo App
+# 📝 Todo App 
 
 
 
@@ -27,14 +27,14 @@ A beautiful, fast, and responsive Todo App for managing daily tasks easily 🚀
 
 ## 🌐 Live Demo
 
-👉 [Check out the live app on Netlify]: (https://taskotodo.netlify.app)
+👉 [Check out the live app on Netlify] : (https://taskotodo.netlify.app)
 
 
 
 ## ✨ Features
 
 - ✅ Add new tasks instantly   
-- ✅ Clear completed tasks  
+- ✅ Clear all todo tasks with one click  
 - ✅ Duplicate tasks are not allowed  
 - ✅ User-friendly and modern UI 🎨  
 - ✅ Fully responsive on Mobile, Tablet & Laptop 📱💻  
@@ -42,6 +42,7 @@ A beautiful, fast, and responsive Todo App for managing daily tasks easily 🚀
 - ✅ Real-time task management experience  
 - ✅ MongoDB database integration  
 - ✅ Secure backend connection 🔒  
+
  
 
 
@@ -50,7 +51,8 @@ A beautiful, fast, and responsive Todo App for managing daily tasks easily 🚀
 - Frontend: React.js, HTML5, CSS3, JavaScript  
 - Backend: Node.js, Express.js  
 - Database: MongoDB  
-- Deployment: Netlify & Render  
+- Deployment: Netlify (Frontend), Render (Backend)
+
 
 
 
